@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="thithukhachhhang:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>thithukhachhhang</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="thithukhachhhang-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="thithukhachhhang:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="UDM_ImageUpload:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>UDM_ImageUpload</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="UDM_ImageUpload-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="UDM_ImageUpload:war exploded" />
+    </root>
+  </artifact>
+</component>
